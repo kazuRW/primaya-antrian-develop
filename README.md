@@ -1,5 +1,7 @@
 # primaya-antrian-develop
 
+https://primaya-antrian-develop.vercel.app/
+
 HOME
 
 ![localhost_Primaya-Antrian_home (2)](https://github.com/kazuRW/primaya-antrian-develop/assets/67783779/5d7dc6af-908c-40b4-8755-47e5bf1837bc)
